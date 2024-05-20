@@ -1,4 +1,5 @@
-### Hi there, I'm Isaias Filho 👋
+## Welcome to my profile! I'm Isaias Filho
+And my stacks are:
 
 <!--
 **IsaiasFilho/IsaiasFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="IsaiasFilho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="IsaiasFilho-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="IsaiasFilho-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
@@ -30,3 +30,9 @@ Here are some ideas to get you started:
   <img align="center" alt="IsaiasFilho-ArgoCD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
   <img align="center" alt="IsaiasFilho-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
+
+  ##
+<div> 
+  <a href="http://linkedin.com/in/isaias-silva-dourado-filho-793aa062/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>  
